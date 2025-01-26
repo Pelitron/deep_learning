@@ -19,11 +19,3 @@ He optado por entregar todos los elementos de la práctica (código, informe té
 
 6. **Compatibilidad con entornos colaborativos**: 
    Dado que los notebooks son ampliamente compatibles con herramientas como Google Colab, compartir, ejecutar y modificar el trabajo resulta mucho más sencillo, sin requerir configuraciones adicionales.
-
-En este notebook, cada uno de los elementos requeridos en la práctica está claramente identificado:
-- **Notebook con código comentado**: Todo el código está acompañado de comentarios explicativos en las celdas correspondientes.
-- **Informe técnico**: Las justificaciones y explicaciones están documentadas en celdas de texto en formato Markdown.
-- **Modelo entrenado**: El modelo final está entrenado y guardado en este mismo notebook, asegurando su reproducibilidad.
-- **Scripts de preprocesamiento**: Las funciones y scripts utilizados para la preparación de los datos están documentados y organizados en secciones específicas.
-
-Esta elección se realizó pensando en la simplicidad, la claridad y la eficiencia para el proceso de revisión.
