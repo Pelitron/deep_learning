@@ -1,4 +1,4 @@
-l aTodos los entregables se condensan en el notebook.
+Todos los entregables se condensan en el notebook.
 
 He optado por entregar todos los elementos de la práctica (código, informe técnico, modelo entrenado y scripts de preprocesamiento) en un único notebook por las siguientes razones:
 
